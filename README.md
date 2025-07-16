@@ -104,3 +104,6 @@ test.zip – Test images
 
 Notebook – Full preprocessing, modeling, and evaluation code
 
+Here is the direct link to the dataset:
+
+🔗 Dataset: APTOS 2019 Blindness Detection – Kaggle
